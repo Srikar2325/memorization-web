@@ -23,6 +23,7 @@ This project provides a platform for users to enhance their learning and memoriz
 - **Backend:** Python (Flask framework)
 - **Database:** SQLite (or any other database)
 - **Version Control:** Git & GitHub
+- link :  https://srikar2325.github.io/memorization-web/
 
 ---
 
