@@ -37,4 +37,4 @@ This project provides a platform for users to enhance their learning and memoriz
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/memorization-techniques.git
+   https://srikar2325.github.io/memorization-web/
